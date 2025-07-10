@@ -1,3 +1,5 @@
+SmartPosture: AI-Powered Wearable Posture Correction System
+
 SmartPosture is a real-time, low-power wearable device designed to monitor and correct upper-body sitting posture using dual MPU6050 IMU sensors and a lightweight Feedforward Neural Network (FNN) deployed on an ESP32 microcontroller. The system detects poor posture and immediately alerts the user through a built-in vibration motor, encouraging corrective action without external apps or cloud dependence.
 
 Key Features:
